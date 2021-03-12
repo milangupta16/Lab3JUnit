@@ -4,5 +4,5 @@
   tasks:
     - name: Pull junit devops image
       docker_image:
-        name: shubhamaggarwal890/junit-devops
+        name: milangupta16/junit-devops
         source: pull
